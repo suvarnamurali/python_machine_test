@@ -1,4 +1,4 @@
-This is a test. This test is for checking repeated words. Checking.
+This is a test. 
 Maya OS is a new operating system that is based on Ubuntu, a popular 
 Linux distribution that uses free and open-source software. The Defence
 Ministry has developed Maya OS with the help of various government agencies,
